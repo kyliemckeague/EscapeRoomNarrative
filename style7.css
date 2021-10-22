@@ -1,0 +1,21 @@
+/*picture sizing*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  box-shadow: 0 20px 100px 0 rgba(0, 0, 0, 0.5), 0 20px 40px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+/*coding to get the box surrounding the conclusion text at the top of the page*/
+h1{
+   color: navajowhite;
+ 
+  max-width: 90ch;
+  text-align:center;
+  transform: scale(0.94);
+  animation: scale 5s forwards cubic-bezier(1, 5, 1, 2);
+  
+}
+
+}
