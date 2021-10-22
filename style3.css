@@ -1,0 +1,20 @@
+/*image size for morse code key*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:84%;
+}
+/*morse code font that effects the <p> text*/
+@font-face {
+    font-family: 'morsecoderegular';
+    src: url('https://makeademic.github.io/EscapeRoomNarrative/morsecode-webfont.woff2') format('woff2'),
+         url('https://makeademic.github.io/EscapeRoomNarrative/morsecode-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+p{
+  font-family:"morsecoderegular";
+}
