@@ -1,0 +1,6 @@
+/*the table including the numbers*/
+table, th, td {
+  border:1px solid navajowhite;
+  margin:auto;
+  padding:20px;
+}
