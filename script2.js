@@ -1,5 +1,5 @@
-var WORDS     = ["Salvador Dali", "Frida Kalo", "Rene Magritte", "Picasso"];
-        var SCRAMBLED = ["Ldrovaas Ladi", "Riadf Alko", "Reen Mgtritea", "Ciapsos"];
+var WORDS     = ["Salvador Dali", "Frida Kahlo", "Rene Magritte", "Picasso"];
+        var SCRAMBLED = ["Ldrovaas Ladi", "Riadf Alhko", "Reen Mgtritea", "Ciapsos"];
 
         var playing = true;
 
